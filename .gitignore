@@ -1,0 +1,6 @@
+*.class
+*.jar
+.gradle
+.nb-gradle
+nbproject
+build
